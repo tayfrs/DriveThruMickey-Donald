@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602100783 source:c:\users\tayna\documents\faculdade\lg1a1\projeto\drivethru\drivethru\funcoes.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1602103473 source:c:\users\tayna\documents\faculdade\lg1a1\projeto\drivethru\drivethru\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
